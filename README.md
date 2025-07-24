@@ -3,7 +3,7 @@
 
 ## 🚀 Live Demo
 
-**[View Live Demo Here](https://leilas25.github.io/Pine-City-Zoo-/)**
+**[View Live Demo Here]( https://leilas25.github.io/Pine-City-Zoo-/)**
 *(This link will be active once you've set up GitHub Pages for your repository.)*
 
 ---
