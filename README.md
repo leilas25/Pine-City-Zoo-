@@ -19,6 +19,7 @@ The website demonstrates a foundational understanding of multi-page HTML structu
 ## 🛠️ Technologies Used
 
 * **HTML5:** Utilized for building the core structure of all web pages, including the homepage (`index.html`), and dedicated sections for `animals.html`, `places.html`, `weather.html`, and `feedback.html`.
+
 * **CSS:** Employed for styling the website's layout, header, navigation menus (top and bottom), image presentation (like the map), and overall visual design.
 
 ---
@@ -30,7 +31,9 @@ The website demonstrates a foundational understanding of multi-page HTML structu
 * **Central Map Display:** A prominent map image on the homepage (`index.html`) to give visitors an overview.
   
 * **Dedicated Content Sections:** Separate pages for specific information like `animals`, `places`, `weather`, and `feedback`.
+  
 * **Consistent Header & Footer:** A uniform header with the zoo logo and a consistent bottom navigation across pages.
+  
 * **Semantic Structure:** Organized HTML elements for better readability and maintainability.
 
 ---
@@ -54,8 +57,11 @@ To view this project on your local machine:
 ## 💡 What I Learned
 
 * **Multi-Page Website Structure:** Gained experience in creating and linking multiple HTML pages to form a cohesive website.
+  
 * **Navigation Implementation:** Practiced building effective navigation menus using HTML links and CSS styling.
+  
 * **Basic Layout & Styling:** Applied CSS to control element positioning, sizing, and overall page aesthetics, including image integration.
+  
 * **Project Organization:** Reinforced skills in managing various HTML, CSS, and image assets within a structured project folder.
 
 ---
@@ -65,7 +71,7 @@ To view this project on your local machine:
 Feel free to connect with me:
 
 * **GitHub:** [github.com/leilas25](https://github.com/leilas25)
-* **LinkedIn:** [Your LinkedIn Profile URL Here] *(Replace with your actual LinkedIn URL)*
-* **Email:** your.email@example.com *(Replace with your actual email address)*
+
+* **Email:** leilasono1@gmail.com
 
 ---
