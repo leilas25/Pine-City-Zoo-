@@ -70,6 +70,8 @@ Feel free to connect with me:
 
 * **GitHub:** [github.com/leilas25](https://github.com/leilas25)
 
+* **Linkedin:** https://www.linkedin.com/in/leila-sono
+
 * **Email:** leilasono1@gmail.com
 
 ---
